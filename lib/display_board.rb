@@ -8,4 +8,4 @@ def display_board(array)
   puts " #{array[6]} | #{array[7]} | #{array[8]} "
 end
 
-show_board(["O", " ", "X", "O", "X", " ", "O", " ", " "])
+display_board(["O", " ", "X", "O", "X", " ", "O", " ", " "])
